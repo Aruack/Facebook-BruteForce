@@ -10,7 +10,7 @@ Bruteforce attack for Facebook Account
 
 ## Run commands one by one
 ```
->> git clone https://github.com/IAmBlackHacker/Facebook-BruteForce
+>> git clone https://github.com/aruack/Facebook-BruteForce
 >> cd Facebook-BruteForce
 >> pip3 install requests bs4
 >> pip install mechanize
@@ -28,7 +28,7 @@ Bruteforce attack for Facebook Account
 * Make location based login(+browser based).
 
 ## Explore More in Hacking ...
-https://www.facebook.com/B14CKH4K3R/
+https://t.me/aruackofficial
 
 ~~~
 Happy Hacking Day ! (Please do not spam it, It's Just For Knowledge ...).
